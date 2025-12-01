@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "トマソン",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-01T15:39:29.089150Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トマソン",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_トマソン_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トマソン",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_トマソン_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トマソン",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_トマソン_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "トマソン",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_02_トマソン_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "トマソン",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_03_トマソン_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "トマソン",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_04_トマソン_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "トマソン",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_05_トマソン_マカロニえんぴつ.txt"
+    }
+  ]
+}
